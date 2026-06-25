@@ -1,11 +1,10 @@
 # ChunkyBrains Mobile Apps Portfolio
 
-## About
+## Summary
 
 At ChunkyBrains, we build mobile apps that are fast, reliable, and designed to deliver great user experiences. From startup ideas to enterprise solutions, we help businesses turn their vision into high-quality Android and Flutter applications that people love to use.
 
 ---
-##  Core Expertise & Technology Stack
 
 ### Cross Platform Development
 
@@ -22,8 +21,9 @@ At ChunkyBrains, we build mobile apps that are fast, reliable, and designed to d
 * Jetpack Compose
 * Android SDK
 * Material Design
-### Architecture & State Management
 
+
+### Architecture & State Management
 
 * Clean Architecture
 * MVC / MVVM
