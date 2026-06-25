@@ -232,10 +232,12 @@ Real estate marketplace helping users discover apartments, homes, and investment
 * Enterprise-Level Maintainability
 
 ^ Security Focused Development
+
 ^ Long-Term Product Scalability
 
 
 🤝 Collaborate With Us
+
 🌐 Website: https://chunkybrains.com
 
 
