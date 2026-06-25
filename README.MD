@@ -123,7 +123,33 @@ Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitor
 
 ---
 
-## 4. COCO 🐶🐱 *(Flutter)*
+## 4. MenuBazaar 🍽️📱 *(Flutter)*
+
+An enterprise-grade Computerized Maintenance Management System (CMMS) designed for industrial maintenance scheduling, automated asset tracking, KPI monitoring, and manufacturing workflow optimization.
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=chunkybrains.menubazaar&pli=1
+
+### Screenshots
+
+<p align="center">
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_1.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_2.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_4.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_5.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_6.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_7.jpg" width="220"/>
+</p>
+
+---
+
+
+## 5. COCO 🐶🐱 *(Flutter)*
 
 Pet care ecosystem offering veterinary appointments, grooming services, nutrition management, and pet product delivery.
 
@@ -147,7 +173,7 @@ Pet care ecosystem offering veterinary appointments, grooming services, nutritio
 
 ---
 
-## 5. Wilson 📊💼 *(Flutter)*
+## 6. Wilson 📊💼 *(Flutter)*
 
 Enterprise-grade workforce management solution featuring attendance, leave workflows, task assignment, and location-based operations tracking.
 
@@ -171,7 +197,7 @@ Enterprise-grade workforce management solution featuring attendance, leave workf
 
 ---
 
-## 6. 211 Utah 🇺🇸📍 *(Native Android)*
+## 7. 211 Utah 🇺🇸📍 *(Native Android)*
 
 Community assistance platform connecting users with housing, food, healthcare, and social support services throughout Utah.
 
@@ -199,7 +225,7 @@ Community assistance platform connecting users with housing, food, healthcare, a
 
 ---
 
-## 7. Baghdad Home 🏢🇮🇶 *(Native Android)*
+## 8. Baghdad Home 🏢🇮🇶 *(Native Android)*
 
 Real estate marketplace helping users discover apartments, homes, and investment properties across Iraq.
 
@@ -223,45 +249,6 @@ Real estate marketplace helping users discover apartments, homes, and investment
 </p>
 
 ---
-
-## 8. MenuBazaar 🍽️📱 *(Flutter)*
-
-MenuBazaar is a modern Digital QR Menu platform designed specifically for restaurants, cafés, hotels, food courts, and hospitality businesses. It enables businesses to create and manage digital menus, generate QR codes for tables, and provide customers with a completely contactless ordering experience.
-
-Customers simply scan a QR code using their phone camera and instantly access the restaurant's live digital menu. Business owners can update products, prices, categories, and availability in real time without reprinting physical menus.
-
-### Key Features
-
-* Digital QR Menu System
-* Contactless Dining Experience
-* Real-Time Menu Updates
-* Product & Category Management
-* Restaurant Dashboard
-* Unlimited Menu Changes
-* 100% Commission Free
-* Safe & Secure Ordering Experience
-
-### Downloads
-
-* Android: https://play.google.com/store/apps/details?id=chunkybrains.menubazaar&pli=1
-
-### Screenshots
-
-<p align="center">
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_1.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_2.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_3.jpg" width="220"/>
-</p>
-
-<p align="center">
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_4.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_5.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_6.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_7.jpg" width="220"/>
-</p>
-
----
-
 
 ## 🎯 Engineering Standards
 
