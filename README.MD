@@ -53,10 +53,14 @@ A dynamic social discovery and networking platform that helps users connect with
 ---
 ## 2. Cartha AI 🧠✨ *(Flutter)*
 AI-powered emotional wellness companion helping users navigate anxiety, relationships, self-growth, and mental wellbeing.
+
 ### Downloads
 * Android: https://play.google.com/store/apps/details?id=com.cartha_ai_mobile
 * iOS: https://apps.apple.com/us/app/cartha-ai/id6737981702
+
+
 ### Screenshots
+
 <p align="center">
 <img src="assets/cartha_app_screenshots/cartha_1.jpg" width="220"/>
 <img src="assets/cartha_app_screenshots/cartha_2.jpg" width="220"/>
@@ -68,10 +72,15 @@ AI-powered emotional wellness companion helping users navigate anxiety, relation
 <img src="assets/cartha_app_screenshots/cartha_6.jpg" width="220"/>
 </p>
 ---
+
+
 ## 3. ANRML 🏭⚙️ *(Flutter)*
 Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitoring, and operational workflow optimization.
+
 ### Downloads
 * Android: https://play.google.com/store/apps/details?id=com.anrml
+
+
 ### Screenshots
 <p align="center">
 <img src="assets/anrml_app_screenshots/ANRML_1.jpg" width="220"/>
@@ -84,11 +93,18 @@ Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitor
 <img src="assets/anrml_app_screenshots/ANRML_6.jpg" width="220"/>
 </p>
 ---
+
+
 ## 4. MenuBazaar 🍽️📱 *(Flutter)*
 A modern Digital QR Menu platform designed for restaurants and hospitality businesses. It enables dynamic contactless menu management, real-time price updates, and secure table-side catalog interactions commission-free.
+
+
 ### Downloads
 * Android: https://play.google.com/store/apps/details?id=chunkybrains.menubazaar&pli=1
+
+
 ### Screenshots
+
 <p align="center">
 <img src="assets/menu_bazaar_app_screenshots/menu_bazaar_1.jpg" width="220"/>
 <img src="assets/menu_bazaar_app_screenshots/menu_bazaar_2.jpg" width="220"/>
@@ -101,11 +117,18 @@ A modern Digital QR Menu platform designed for restaurants and hospitality busin
 <img src="assets/menu_bazaar_app_screenshots/menu_bazaar_7.jpg" width="220"/>
 </p>
 ---
+
+
 ## 5. COCO 🐶🐱 *(Flutter)*
 Pet care ecosystem offering veterinary appointments, grooming services, nutrition management, and pet product delivery.
+
+
 ### Status
 🚧 Ongoing Production Stage
+
+
 ### Screenshots
+
 <p align="center">
 <img src="assets/coco_app_screenshots/coco_1.jpg" width="220"/>
 <img src="assets/coco_app_screenshots/coco_2.jpg" width="220"/>
@@ -117,11 +140,18 @@ Pet care ecosystem offering veterinary appointments, grooming services, nutritio
 <img src="assets/coco_app_screenshots/coco_6.jpg" width="220"/>
 </p>
 ---
+
+
 ## 6. Wilson 📊💼 *(Flutter)*
 Enterprise-grade workforce management solution featuring attendance, leave workflows, task assignment, and location-based operations tracking.
+
+
 ### Status
 🏢 Enterprise Production
+
+
 ### Screenshots
+
 <p align="center">
 <img src="assets/wilson_app_screenshots/wilson_1.jpg" width="220"/>
 <img src="assets/wilson_app_screenshots/wilson_2.jpg" width="220"/>
@@ -135,10 +165,15 @@ Enterprise-grade workforce management solution featuring attendance, leave workf
 ---
 ## 7. 211 Utah 🇺🇸📍 *(Native Android)*
 Community assistance platform connecting users with housing, food, healthcare, and social support services throughout Utah.
+
+
 ### Downloads
 * Android: https://play.google.com/store/apps/details?id=ncr.com.ncr
 * iOS: https://apps.apple.com/us/app/211-utah/id1167593755
+
+
 ### Screenshots
+
 <p align="center">
 <img src="assets/utah_211_app_screenshots/Utah_1.jpg" width="220"/>
 <img src="assets/utah_211_app_screenshots/utah_2.jpg" width="220"/>
@@ -153,11 +188,18 @@ Community assistance platform connecting users with housing, food, healthcare, a
 <img src="assets/utah_211_app_screenshots/Utah_6.jpg" width="220"/>
 </p>
 ---
+
+
 ## 8. Baghdad Home 🏢🇮🇶 *(Native Android)*
 Real estate marketplace helping users discover apartments, homes, and investment properties across Iraq.
+
+
 ### Downloads
 * Android: https://play.google.com/store/apps/details?id=com.baghdadhomes
+
+
 ### Screenshots
+
 <p align="center">
 <img src="assets/baghdad_home_app_screenshots/baghdad_home_1.jpg" width="220"/>
 <img src="assets/baghdad_home_app_screenshots/baghdad_home_2.jpg" width="220"/>
@@ -170,6 +212,20 @@ Real estate marketplace helping users discover apartments, homes, and investment
 <img src="assets/baghdad_home_app_screenshots/baghdad_home_7.jpg" width="220"/>
 </p>
 ---
+
+🎯 Engineering Standards
+Clean & Scalable Architecture
+Production Ready Codebases
+Responsive UI Across Devices
+High Performance Rendering
+Enterprise-Level Maintainability
+Security Focused Development
+Long-Term Product Scalability
+🤝 Collaborate With Us
+🌐 Website: https://chunkybrains.com
+
+
+
 ## 🏗️ Technical Architecture Blueprints (Code Preview)
 We follow highly decoupled modular programming models across frameworks. Click on the toggles below to view our standard high-performance blueprints:
 <details>
@@ -232,15 +288,3 @@ class ProfileViewModel(private val repository: UserRepository) : ViewModel() {
         }
     }
 }
-
-
-🎯 Engineering Standards
-Clean & Scalable Architecture
-Production Ready Codebases
-Responsive UI Across Devices
-High Performance Rendering
-Enterprise-Level Maintainability
-Security Focused Development
-Long-Term Product Scalability
-🤝 Collaborate With Us
-🌐 Website: https://chunkybrains.com
