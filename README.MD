@@ -184,8 +184,11 @@ Community assistance platform connecting users with housing, food, healthcare, a
 
 <p align="center">
 <img src="assets/utah_211_app_screenshots/Utah_1.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/Utah_2.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/Utah_3.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/utah_2.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/utah_3.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/utah_4.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/utah_5.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/utah_6.jpg" width="220"/>
 </p>
 
 <p align="center">
