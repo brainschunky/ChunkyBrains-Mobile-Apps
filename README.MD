@@ -199,7 +199,7 @@ Community assistance platform connecting users with housing, food, healthcare, a
 
 ---
 
-## 7. Baghdad Home 🏢🇮🇶 *(Flutter)*
+## 7. Baghdad Home 🏢🇮🇶 *(Native Android)*
 
 Real estate marketplace helping users discover apartments, homes, and investment properties across Iraq.
 
