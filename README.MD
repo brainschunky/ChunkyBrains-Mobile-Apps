@@ -42,30 +42,8 @@ At ChunkyBrains, we build mobile apps that are fast, reliable, and designed to d
 * Secure Local Storage
 ---
 # Featured Applications
-## 1. Out2Day  *(Flutter)*
-A dynamic social discovery and networking platform that helps users connect with people sharing similar interests through location-aware matchmaking and real-time communication.
-### Downloads
-* Android: https://play.google.com/store/apps/details?id=com.app.out2day
-* iOS: https://apps.apple.com/us/app/out2day-explore-with-friends/id6758880750
-### Screenshots
-<p align="center">
-<img src="Out2Day/OUt2Day_1.jpg" width="220"/>
-<img src="Out2Day/Out2day_2.jpg" width="220"/>
-<img src="Out2Day/out2day_3.jpg" width="220"/>
-<img src="Out2Day/out2day_4.jpg" width="220"/>
-<img src="Out2Day/out2day_5.jpg" width="220"/>
-<img src="Out2Day/out2day_6.jpg" width="220"/>
-<img src="Out2Day/out2day_7.jpg" width="220"/>
-</p>
-<p align="center">
-<img src="Out2Day/OUt2Day_5.jpg" width="220"/>
-<img src="Out2Day/OUt2Day_6.jpg" width="220"/>
-<img src="Out2Day/OUt2Day_7.jpg" width="220"/>
-</p>
----
 
-
-## 2. Cartha AI  *(Flutter)*
+## 1. Cartha AI  *(Flutter)*
 AI-powered emotional wellness companion helping users navigate anxiety, relationships, self-growth, and mental wellbeing.
 
 ### Downloads
@@ -88,7 +66,7 @@ AI-powered emotional wellness companion helping users navigate anxiety, relation
 ---
 
 
-## 3. ANRML  *(Flutter)*
+## 2. ANRML  *(Flutter)*
 Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitoring, and operational workflow optimization.
 
 ### Downloads
@@ -109,7 +87,7 @@ Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitor
 ---
 
 
-## 4. MenuBazaar  *(Flutter)*
+## 3. MenuBazaar  *(Flutter)*
 A modern Digital QR Menu platform designed for restaurants and hospitality businesses. It enables dynamic contactless menu management, real-time price updates, and secure table-side catalog interactions commission-free.
 
 
@@ -133,7 +111,7 @@ A modern Digital QR Menu platform designed for restaurants and hospitality busin
 ---
 
 
-## 5. COCO  *(Flutter)*
+## 4. COCO  *(Flutter)*
 Pet care ecosystem offering veterinary appointments, grooming services, nutrition management, and pet product delivery.
 
 
@@ -156,7 +134,7 @@ Ongoing Production Stage
 ---
 
 
-## 6. Wilson  *(Flutter)*
+## 5. Wilson  *(Flutter)*
 Enterprise-grade workforce management solution featuring attendance, leave workflows, task assignment, and location-based operations tracking.
 
 
@@ -179,7 +157,7 @@ Enterprise-grade workforce management solution featuring attendance, leave workf
 ---
 
 
-## 7. 211 Utah 🇺🇸 *(Native Android)*
+## 6. 211 Utah 🇺🇸 *(Native Android)*
 Community assistance platform connecting users with housing, food, healthcare, and social support services throughout Utah.
 
 
@@ -206,7 +184,7 @@ Community assistance platform connecting users with housing, food, healthcare, a
 ---
 
 
-## 8. Baghdad Home *(Native Android)*
+## 7. Baghdad Home *(Native Android)*
 Real estate marketplace helping users discover apartments, homes, and investment properties across Iraq.
 
 
