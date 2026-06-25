@@ -51,6 +51,8 @@ A dynamic social discovery and networking platform that helps users connect with
 <img src="assets/out2day_app_screenshots/OUt2Day_7.jpg" width="220"/>
 </p>
 ---
+
+
 ## 2. Cartha AI 🧠✨ *(Flutter)*
 AI-powered emotional wellness companion helping users navigate anxiety, relationships, self-growth, and mental wellbeing.
 
@@ -163,6 +165,8 @@ Enterprise-grade workforce management solution featuring attendance, leave workf
 <img src="assets/wilson_app_screenshots/wilson_6.jpg" width="220"/>
 </p>
 ---
+
+
 ## 7. 211 Utah 🇺🇸📍 *(Native Android)*
 Community assistance platform connecting users with housing, food, healthcare, and social support services throughout Utah.
 
@@ -214,14 +218,23 @@ Real estate marketplace helping users discover apartments, homes, and investment
 ---
 
 🎯 Engineering Standards
+
 Clean & Scalable Architecture
+
 Production Ready Codebases
+
 Responsive UI Across Devices
+
 High Performance Rendering
+
 Enterprise-Level Maintainability
+
 Security Focused Development
+
 Long-Term Product Scalability
+
 🤝 Collaborate With Us
+
 🌐 Website: https://chunkybrains.com
 
 
